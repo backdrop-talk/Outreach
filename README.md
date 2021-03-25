@@ -5,8 +5,8 @@ If you're passionate about telling the world all about Backdrop, engage with oth
 
 **Where to start...**
 
-1) If you want to discuss things, head over to the Discussions tab.
+1) If you want to discuss things, head over to the **Discussions** tab.
 
-2) If you want to add or ammend a policy, create an issue in the Issue tab.
+2) If you want to add or ammend a policy, create an issue in the **Issues** tab.
 
-3) If you want to see the progress of any outstanding issues, check out the Project tab.
+3) If you want to see the progress of any outstanding issues, check out the **Projects** tab.
